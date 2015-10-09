@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.1.1"
   },
+  "scripts": {
+    "start": "hexo server"
+  },
   "dependencies": {
     "hexo": "^3.1.1",
     "hexo-admin-plugin": "^1.1.1",
